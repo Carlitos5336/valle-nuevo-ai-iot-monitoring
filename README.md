@@ -98,5 +98,6 @@ If you have questions or are interested in this project:
 **Carlos Ogando**  
 (Data Scientist | AI Enthusiast)
 
-The thesis document is shared for academic and reference purposes. Please cite appropriately if used.
+**IMPORTANT: The thesis document is shared for academic and reference purposes. Please cite appropriately if used.**
+
 ---
