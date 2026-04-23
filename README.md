@@ -40,6 +40,14 @@ The proposed system includes:
    - Environmental sensors deployed in the park  
    - Continuous data collection  
 
+<p align="center">
+  <img src="images/station.png" width="700"/>
+</p>
+
+<p align="center">
+  <em>Figure 1. Station Diagram.</em>
+</p>
+
 2. **AI Models**  
    - Detection of anomalous patterns  
    - Risk prediction and classification  
@@ -48,9 +56,19 @@ The proposed system includes:
    - Preventive alerts based on risk levels  
    - Reactive alerts when anomalies are detected  
 
+<p align="center">
+  <img src="images/architecture.png" width="700"/>
+</p>
+
+<p align="center">
+  <em>Figure 2. Proposed AI + IoT architecture for environmental risk monitoring.</em>
+</p>
+
 4. **Dashboard (Power BI)**  
    - Visualization of environmental conditions  
    - Risk indicators and trends  
+
+Enlace al dashboard: [DASHBOARD WEB DEMO](https://app.powerbi.com/view?r=eyJrIjoiMGMyYmYyZTgtZWFjMy00MTA1LTgxZGYtZDAxY2YzMGFiY2JiIiwidCI6ImQ5YTBmMTlmLTMxMmYtNDkzMi05YWJlLWFmMjQyMDZlYjE4NiIsImMiOjF9)
 
 ---
 
